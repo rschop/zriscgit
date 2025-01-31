@@ -1,7 +1,7 @@
 *&---------------------------------------------------------------------*
 *& Report ZTESTRISC
 *&---------------------------------------------------------------------*
-*& door Richard Schop
+*& API key = yPxCAVw3bKdMtcZned9eLwA8KlvWwsnola1ZWmdjqrQIB7E67CLOCQBxLj
 *&---------------------------------------------------------------------*
 REPORT ZTESTRISC.
 TABLES: tstc,
